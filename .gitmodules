@@ -10,3 +10,24 @@
 [submodule "Libraries/libndp"]
 	path = Libraries/libndp
 	url = https://github.com/jpirko/libndp.git
+[submodule "Libraries/cpp-netlib"]
+	path = Libraries/cpp-netlib
+	url = https://github.com/cpp-netlib/cpp-netlib.git
+[submodule "Libraries/evpp"]
+	path = Libraries/evpp
+	url = https://github.com/Qihoo360/evpp.git
+[submodule "Libraries/poco"]
+	path = Libraries/poco
+	url = https://github.com/pocoproject/poco.git
+[submodule "Libraries/enet"]
+	path = Libraries/enet
+	url = https://github.com/lsalzman/enet.git
+[submodule "Libraries/libwebsockets"]
+	path = Libraries/libwebsockets
+	url = https://github.com/warmcat/libwebsockets.git
+[submodule "Libraries/SFML"]
+	path = Libraries/SFML
+	url = https://github.com/SFML/SFML.git
+[submodule "Libraries/libmicrohttpd"]
+	path = Libraries/libmicrohttpd
+	url = https://gnunet.org/git/libmicrohttpd.git
