@@ -31,3 +31,9 @@
 [submodule "Libraries/libmicrohttpd"]
 	path = Libraries/libmicrohttpd
 	url = https://gnunet.org/git/libmicrohttpd.git
+[submodule "Libraries/inet"]
+	path = Libraries/inet
+	url = https://github.com/inet-framework/inet.git
+[submodule "Libraries/simulte"]
+	path = Libraries/simulte
+	url = https://github.com/inet-framework/simulte.git
