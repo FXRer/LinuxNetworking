@@ -1,0 +1,12 @@
+[submodule "Libraries/libvma"]
+	path = Libraries/libvma
+	url = https://github.com/Mellanox/libvma.git
+[submodule "Libraries/libpsample"]
+	path = Libraries/libpsample
+	url = https://github.com/Mellanox/libpsample.git
+[submodule "Libraries/libteam"]
+	path = Libraries/libteam
+	url = https://github.com/jpirko/libteam.git
+[submodule "Libraries/libndp"]
+	path = Libraries/libndp
+	url = https://github.com/jpirko/libndp.git
