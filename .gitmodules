@@ -37,3 +37,6 @@
 [submodule "Libraries/simulte"]
 	path = Libraries/simulte
 	url = https://github.com/inet-framework/simulte.git
+[submodule "Libraries/fastsocket"]
+	path = Libraries/fastsocket
+	url = https://github.com/fastos/fastsocket.git
