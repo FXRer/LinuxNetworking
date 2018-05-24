@@ -40,3 +40,12 @@
 [submodule "Libraries/fastsocket"]
 	path = Libraries/fastsocket
 	url = https://github.com/fastos/fastsocket.git
+[submodule "Libraries/beanstalkd"]
+	path = Libraries/beanstalkd
+	url = https://github.com/kr/beanstalkd.git
+[submodule "Libraries/jfwknop"]
+	path = Libraries/jfwknop
+	url = https://github.com/fjoncourt/jfwknop.git
+[submodule "Libraries/fwknop-gui"]
+	path = Libraries/fwknop-gui
+	url = https://github.com/jp-bennett/fwknop-gui.git
