@@ -49,3 +49,9 @@
 [submodule "Libraries/fwknop-gui"]
 	path = Libraries/fwknop-gui
 	url = https://github.com/jp-bennett/fwknop-gui.git
+[submodule "Libraries/mtcp"]
+	path = Libraries/mtcp
+	url = https://github.com/eunyoung14/mtcp.git
+[submodule "Libraries/PFQ"]
+	path = Libraries/PFQ
+	url = https://github.com/pfq/PFQ.git
