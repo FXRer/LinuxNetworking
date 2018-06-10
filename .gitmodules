@@ -55,3 +55,6 @@
 [submodule "Libraries/PFQ"]
 	path = Libraries/PFQ
 	url = https://github.com/pfq/PFQ.git
+[submodule "Demo/Net-Disco"]
+	path = Demo/Net-Disco
+	url = https://github.com/BlackRamElectronics/Net-Disco.git
